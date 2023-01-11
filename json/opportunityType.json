@@ -1,0 +1,60 @@
+{
+  "count": null,
+  "items": [
+    {
+      "opportunityTypeID": "95f2d208-8e39-4978-8e83-01bb8ac6c0b9",
+      "opportunityType": "Funeral Services",
+      "description": null,
+      "enum": "FuneralServices",
+      "isActive": true,
+      "addedBy": "perrychapman@zudy.com",
+      "addedOn": "2022-04-21T15:35:20.973",
+      "changedBy": "santinotorretti@zudy.com",
+      "changedOn": "2023-01-06T16:02:53.917",
+      "index": 30,
+      "jRNIValue": "Funeral Services"
+    },
+    {
+      "opportunityTypeID": "153463e3-eadd-4337-84e7-0d35b7aceacd",
+      "opportunityType": "Complete Package",
+      "description": null,
+      "enum": "CompletePackage",
+      "isActive": true,
+      "addedBy": "perrychapman@zudy.com",
+      "addedOn": "2022-04-21T15:36:01.6",
+      "changedBy": "santinotorretti@zudy.com",
+      "changedOn": "2023-01-06T16:02:59.633",
+      "index": 40,
+      "jRNIValue": "Complete Package"
+    },
+    {
+      "opportunityTypeID": "37eb0f1c-95f9-48f2-be2c-2d10bdb09f17",
+      "opportunityType": "Burial Services",
+      "description": null,
+      "enum": "BurialServices",
+      "isActive": true,
+      "addedBy": "perrychapman@zudy.com",
+      "addedOn": "2022-04-21T15:34:03.52",
+      "changedBy": "santinotorretti@zudy.com",
+      "changedOn": "2023-01-06T16:03:11.307",
+      "index": 10,
+      "jRNIValue": "Burial Services"
+    },
+    {
+      "opportunityTypeID": "199ddd0f-0f4a-4576-bd8b-736229b4285c",
+      "opportunityType": "Cremation Services",
+      "description": null,
+      "enum": "CremationServices",
+      "isActive": true,
+      "addedBy": "perrychapman@zudy.com",
+      "addedOn": "2022-04-21T15:34:51.63",
+      "changedBy": "santinotorretti@zudy.com",
+      "changedOn": "2023-01-06T16:03:05.917",
+      "index": 20,
+      "jRNIValue": "Cremation Services"
+    }
+  ],
+  "message": null,
+  "validations": [],
+  "status": 200
+}

@@ -1,0 +1,128 @@
+{
+  "count": null,
+  "items": [
+    {
+      "accountID": "561750ad-f811-47f3-8d32-000012789359",
+      "employeeID": "60638484-167c-4bde-87b0-416215e71397",
+      "roleID": null,
+      "isPrimaryEmployee": true,
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:17",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:17",
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountID": "f6b7aaae-e149-4d0d-a9a8-00004ffe134a",
+      "employeeID": "97bc301c-44da-418f-85fb-f6c1a38d6593",
+      "roleID": null,
+      "isPrimaryEmployee": true,
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:17",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:17",
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountID": "1dbd978f-7766-4891-87f5-000099df2154",
+      "employeeID": "423f456b-b2f4-4381-a5ee-94f0d8d0c994",
+      "roleID": null,
+      "isPrimaryEmployee": true,
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:17",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:17",
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountID": "1d91e77a-f653-40f2-b3e6-0000abf4d185",
+      "employeeID": "e6a3f690-ebea-4fb1-b948-9d704a5e8692",
+      "roleID": null,
+      "isPrimaryEmployee": true,
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:17",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:17",
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountID": "69925e14-5d63-4124-924d-0000c0725278",
+      "employeeID": "a02c323d-2fc2-4a5a-8b0d-390ff233aa9a",
+      "roleID": null,
+      "isPrimaryEmployee": true,
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:17",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:17",
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountID": "4b23e54f-3288-4aac-9ecf-0000cfe0ee55",
+      "employeeID": "debfbdb4-168e-4e40-add4-4c8c8b5e833a",
+      "roleID": null,
+      "isPrimaryEmployee": true,
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:17",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:17",
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountID": "6cff4787-2bef-4967-b99d-00012060e2c6",
+      "employeeID": "d32db898-52ca-4f69-a626-2753adf75915",
+      "roleID": null,
+      "isPrimaryEmployee": true,
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:17",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:17",
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountID": "1edcf311-3d69-49c2-9fb3-00012e72e4bc",
+      "employeeID": "6c7a6797-648a-4eef-992a-8ec1e680896f",
+      "roleID": null,
+      "isPrimaryEmployee": true,
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:17",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:17",
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountID": "e95a7e87-b2c8-43bb-8126-000135e12290",
+      "employeeID": "e6a3f690-ebea-4fb1-b948-9d704a5e8692",
+      "roleID": null,
+      "isPrimaryEmployee": true,
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:17",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:17",
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountID": "32ab94dd-16dd-487d-b64b-000156506bab",
+      "employeeID": "05166b86-9895-49a9-950e-13ad74a3f4d1",
+      "roleID": null,
+      "isPrimaryEmployee": true,
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:17",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:17",
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    }
+  ],
+  "message": null,
+  "validations": [],
+  "status": 200
+}

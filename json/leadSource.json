@@ -1,0 +1,44 @@
+{
+  "count": null,
+  "items": [
+    {
+      "leadSourceID": "c9dd060d-31fd-41a8-912e-9a31315f7393",
+      "leadSource": "Walk-in",
+      "description": null,
+      "enum": "WhoIs",
+      "index": 2,
+      "isActive": true,
+      "addedBy": "matthewosberg@zudy.com",
+      "addedOn": "2022-05-19T14:28:04.283",
+      "changedBy": "matthewosberg@zudy.com",
+      "changedOn": "2022-05-19T14:28:04.283"
+    },
+    {
+      "leadSourceID": "b38f8a94-3f62-40cd-aaaf-b7f33200df4d",
+      "leadSource": "3rd-Party Lead",
+      "description": null,
+      "enum": "3rd-Party Lead",
+      "index": null,
+      "isActive": true,
+      "addedBy": "perrychapman@zudy.com",
+      "addedOn": "2022-04-20T11:22:47.843",
+      "changedBy": "perrychapman@zudy.com",
+      "changedOn": "2022-04-20T11:22:47.843"
+    },
+    {
+      "leadSourceID": "4d0ed1d8-b126-4934-83d8-d8bfffd50da2",
+      "leadSource": "JRNI",
+      "description": "JRNI Integration",
+      "enum": "JRNI",
+      "index": 10,
+      "isActive": true,
+      "addedBy": "santinotorretti@zudy.com",
+      "addedOn": "2023-01-06T15:45:06.15",
+      "changedBy": "santinotorretti@zudy.com",
+      "changedOn": "2023-01-06T15:45:06.15"
+    }
+  ],
+  "message": null,
+  "validations": [],
+  "status": 200
+}

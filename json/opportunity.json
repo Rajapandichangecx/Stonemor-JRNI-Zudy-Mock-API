@@ -1,0 +1,31 @@
+{
+  "count": null,
+  "items": [
+    {
+      "opportunityID": "2cce95cd-3080-4242-9d8d-f36da495a4fe",
+      "opportunity": "Test",
+      "employeeID": "2329f775-ddaa-43b1-928c-5c03dba7ac36",
+      "opportunityStatusID": "172365c4-e63b-4492-84dc-8175ad03e201",
+      "opportunityTypeID": null,
+      "expectedCloseDate": "2023-01-20T00:00:00",
+      "budgetMin": null,
+      "budgetMax": null,
+      "closedAmount": null,
+      "closedOn": null,
+      "closedBy": null,
+      "isActive": true,
+      "addedBy": "santinotorretti@zudy.com",
+      "addedOn": "2023-01-06T13:43:19.307",
+      "changedBy": "santinotorretti@zudy.com",
+      "changedOn": "2023-01-06T13:43:19.323",
+      "accountID": "5dbbd6ba-a446-40c2-b04e-2c0f65bb0d5f",
+      "quoteFile": null,
+      "quoteFilename": null,
+      "locationID": null,
+      "contactID": null
+    }
+  ],
+  "message": null,
+  "validations": [],
+  "status": 200
+}

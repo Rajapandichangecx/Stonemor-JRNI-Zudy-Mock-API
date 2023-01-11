@@ -1,0 +1,128 @@
+{
+  "count": null,
+  "items": [
+    {
+      "accountLocationID": "3103643e-2e9a-4dbe-a183-000020095dd3",
+      "accountID": "4532a69c-8f79-48c5-bbf1-348208e8228d",
+      "locationID": "87a3efba-ad91-4988-a2ad-65fbba5248c1",
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:12",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:12",
+      "isPrimaryLocation": true,
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountLocationID": "02667da8-b0f8-4cf6-869c-000071ba56c4",
+      "accountID": "09cb12c3-c5f5-4de2-a0d6-4804051bef6c",
+      "locationID": "94168041-3d26-4d0a-966a-830c381fccd7",
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:12",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:12",
+      "isPrimaryLocation": true,
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountLocationID": "726de724-7433-4f41-9c63-0000d723091c",
+      "accountID": "1daf797e-8f37-459c-93fa-c3e0c4274330",
+      "locationID": "68acf695-6c3e-43a8-a044-b4466f6e18db",
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:12",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:12",
+      "isPrimaryLocation": true,
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountLocationID": "a9efc783-067d-4df0-999e-0000fd341eca",
+      "accountID": "d8260345-0ca4-4fcd-bbc9-cda0ca17fea2",
+      "locationID": "88718f2a-8968-45a4-a055-ee09d54b2a66",
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:12",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:12",
+      "isPrimaryLocation": true,
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountLocationID": "7b800901-ae12-4eaa-b531-000105093d13",
+      "accountID": "945b3f32-964f-477e-8f83-9aaf29cdc0f4",
+      "locationID": "484c2e18-c9ba-40e1-a303-662844f6196f",
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:12",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:12",
+      "isPrimaryLocation": true,
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountLocationID": "1f1b0378-4e72-47a7-9b7f-00016e7b6ef4",
+      "accountID": "a27db00f-5e24-4edf-857c-8cb1e3897d8b",
+      "locationID": "d719135e-0cfc-476f-a6d1-d1d1fa155a22",
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:12",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:12",
+      "isPrimaryLocation": true,
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountLocationID": "fa5dceb8-8086-4e3e-9a57-000182b634ab",
+      "accountID": "69228790-420f-4f56-af06-40cb0400bb7e",
+      "locationID": "e58f6b09-f7c8-49ae-bea6-e3ce35f49282",
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:12",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:12",
+      "isPrimaryLocation": true,
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountLocationID": "697d44dc-b822-4e59-a29f-000292b591be",
+      "accountID": "221f0d64-70cf-4b8c-b44a-c0737ebffa7c",
+      "locationID": "1bbf125b-109b-4d94-85d2-8b17ceabffe6",
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:12",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:12",
+      "isPrimaryLocation": true,
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountLocationID": "b826df84-222a-44a3-b249-0002a99ad5f0",
+      "accountID": "3c7a88cd-ed4b-4421-a3e6-f0a9739f3c78",
+      "locationID": "6f0c2f5a-acae-4a4c-8f4d-85ff25e3e8bd",
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:12",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:12",
+      "isPrimaryLocation": true,
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    },
+    {
+      "accountLocationID": "b78389e5-a5fa-4e41-803f-0003e6e42de1",
+      "accountID": "a186758a-ebfc-416a-8d4b-dc798a5a97c9",
+      "locationID": "901e8be3-4512-4ff3-8dd2-c1c8b4c91c8c",
+      "isActive": true,
+      "addedBy": "service",
+      "addedOn": "2023-01-09T12:12:12",
+      "changedBy": "service",
+      "changedOn": "2023-01-09T12:12:12",
+      "isPrimaryLocation": true,
+      "migrationID": "4b6ef846-0c6f-4579-a7cd-3e8bd1a554fc"
+    }
+  ],
+  "message": null,
+  "validations": [],
+  "status": 200
+}
