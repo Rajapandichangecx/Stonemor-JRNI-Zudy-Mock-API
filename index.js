@@ -1,4 +1,5 @@
 const express = require("express");
+const cors = require("cors");
 const AccountJSON = require("./json/account.json");
 const AccountContactJSON = require("./json/accountContact.json");
 const AccountEmployeeJSON = require("./json/accountEmployee.json");
@@ -12,8 +13,15 @@ const LeadSourceJSON = require("./json/leadSource.json");
 const LocationJSON = require("./json/location.json");
 const OpportunityJSON = require("./json/opportunity.json");
 const OpportunityTypeJSON = require("./json/opportunityType.json");
+const { httpsCall } = require("./https");
 const app = express();
 const port = 8000;
+
+app.use(
+  cors({
+    origin: "*",
+  })
+);
 
 app.get("/", (req, res) => {
   res.send("Welcome to Dummy API");
@@ -33,6 +41,10 @@ app.get("/leadSource", (req, res) => res.json(LeadSourceJSON));
 app.get("/location", (req, res) => res.json(LocationJSON));
 app.get("/opportunity", (req, res) => res.json(OpportunityJSON));
 app.get("/opportunityType", (req, res) => res.json(OpportunityTypeJSON));
+app.get("/smLocation", async (req, res) => {
+  // console.log("req : ", req.query);
+  return res.json(await httpsCall("/location", req.query));
+});
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
